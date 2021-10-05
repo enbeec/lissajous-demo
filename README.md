@@ -1,5 +1,7 @@
 # Lissajous Curves Demo
 
+![gif demo of the lissajous grid](https://vcvcvc-dev.us-east-1.linodeobjects.com/lissa-demo-cropped.gif)
+
 *for Teensy 3.6 and 128px square OLED (greyscale)*
 
 *by _Val Currie_*
